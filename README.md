@@ -1,5 +1,5 @@
 # Research_Projects
-This a personal repository to dump my ideas for the work on them.
+This is a personal repository to document my ideas for the future so I can track them or work on them.
 
 ---
 ## Ideas
